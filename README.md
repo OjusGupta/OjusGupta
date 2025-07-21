@@ -1,6 +1,6 @@
 🚀 **About Me**
 
-- 🎓 I'm currently pursuing my Bachelor's and building my path toward a high-impact **Data Science** role.
+- 🎓 I'm currently pursuing my Bachelor's and building my path toward a high-impact full stack role.
 - 🧠 Passionate about **Machine Learning**, **Cloud Computing**, and **Problem Solving**.
 - 📝 I’m actively improving my **GitHub profile, NPTEL scores**, and building **industry-grade projects**.
 
@@ -8,7 +8,7 @@
 
 🛠️ **Tech Stack**
 
-- **Languages:** Python, SQL, Bash
+- **Languages:** Python, SQL, javascript,css,java,
 - **Libraries/Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow (basic), Streamlit
 - **DevOps/Cloud:** Git, GitHub, Docker (beginner), AWS (beginner)
 - **Databases:** MySQL, SQLite
@@ -20,19 +20,10 @@
 
 - ✅ Strengthen Python + Stats + ML fundamentals
 - 🔄 Build 3 major ML projects with deployment
-- 🧑‍💻 Solve 100+ problems on LeetCode (SQL + Python)
-- ✍️ Write technical blogs or Medium articles
-- 📄 Create resume for data science roles
-- 💼 Apply for high-paying internships and full-time DS roles
+- 🧑‍💻 Solve 50+ problems on LeetCode
+- 💼 Apply for high-paying internships and full-time  roles
 
 ---
 
-📂 **Featured Projects**
-
-
-
-- 🧠 **Customer Churn Prediction** – ML model + Streamlit UI + deployed on Heroku  
-- 📊 **Resume Screener with NLP** – NER and keyword matching pipeline  
-- 📈 **Stock Price Forecaster** – Time series with ARIMA and LSTM
 
 
