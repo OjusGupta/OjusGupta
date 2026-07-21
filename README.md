@@ -11,7 +11,7 @@
 
 🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Bhopal.
 🤖 Working knowledge of Machine Learning, Deep Learning fundamentals, and Generative AI (RAG pipelines, LangChain/LangGraph, prompt engineering).
-☁️ AWS Certified — AWS Cloud Practitioner (CLF-C02) and Solutions Architect coursework, with practical experience across compute, storage, networking, and serverless services.
+☁️ Solutions Architect coursework, with practical experience across compute, storage, networking, and serverless services.
 🏗️ Comfortable designing multi-tier cloud architectures (VPC, subnets, IAM, security groups) beyond a single project — applying core AWS Solutions Architect concepts.
 🏆 Hackathon award winner with real-world project and internship experience.
 📈 Focused on strengthening ML fundamentals, cloud architecture skills, and solving real problems with data.
